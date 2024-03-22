@@ -1,12 +1,15 @@
 # Login-and-Registration-form-using
 Login and registration form using React, Node, MySQL, Bootstrap
 
-The project has developed a registration form and a form for entering a personal account.
-Technologies that were used:
-1. React
-2. Node.js
-3. MySQL (HAAMP)
-3. Bootstrap
+This project features a login and registration form, as well as a personal account entry form, developed using React, Node.js, MySQL (XAAMP), and Bootstrap.
 
-Add 'npm install' or 'yarn install' to install dependencies.
-Also, execute the command 'npm start' for the backend and frontend.
+Technologies Used:
+React
+Node.js
+MySQL (XAAMP)
+Bootstrap
+
+To get started:
+Run `npm install` or `yarn install` to install dependencies.
+Execute `npm start` for both the backend and frontend.
+Feel free to explore and contribute!
