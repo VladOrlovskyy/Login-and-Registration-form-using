@@ -7,3 +7,6 @@ Technologies that were used:
 2. Node.js
 3. MySQL (HAAMP)
 3. Bootstrap
+
+Add 'npm install' or 'yarn install' to install dependencies.
+Also, execute the command 'npm start' for the backend and frontend.
