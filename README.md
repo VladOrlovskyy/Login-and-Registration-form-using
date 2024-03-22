@@ -1,7 +1,7 @@
 # Login-and-Registration-form-using
 Login and registration form using React, Node, MySQL, Bootstrap
 
-This project features a login and registration form, as well as a personal account entry form, developed using React, Node.js, MySQL (XAAMP), and Bootstrap.
+This project features a registration form, as well as a personal account entry form.
 
 Technologies Used:
 React
